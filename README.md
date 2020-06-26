@@ -1,11 +1,13 @@
-## TUTORIAL PARA SIMULAR PROGRAMAS EN UN EQUIVALENTE DE ARDUINO UNO UTILIZANDO MULTISIM
+## TUTORIAL PARA SIMULAR LA ESTRUCTURA ELECTRÓNICA DE UNA RASPBERRY PI 1 MODELO B  EN MULTISIM
 
 <br>
 
 **1. MARCO TEÓRICO**
 
 <br>
-A.	RASPBERRY PI 1 MODELO B
+
+**A. RASPBERRY PI 1 MODELO B**
+
 Raspberry Pi es un miniordenador de placa reducida también que trabaja con un MICROPROCESADOR BCM 2835, aunque no se indica expresamente si es hardware libre o con derechos de marca, es compatible con varios Sistemas operativos de libre acceso, siendo su sistema operativo oficial una versión adaptada de Debian, denominada Raspbian, aunque permite lenguaje de programación Python – IDLE.
 El Modelo B, trajo consigo diversas mejoras, la inclusión del doble de memoria RAM, pasando de 256MB a 512MB, puertos USB y por fin, un conector Ethernet. No hubo variaciones ni en el procesador ni en la parte gráfica.
 
